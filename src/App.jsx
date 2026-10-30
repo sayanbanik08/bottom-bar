@@ -5,12 +5,12 @@ function App() {
     <div
       className="app-shell"
       style={{
-        minHeight: '100vh',
+        minHeight: '100dvh',
         display: 'flex',
-        alignItems: 'center',
+        alignItems: 'end',
         justifyContent: 'center',
-        background: '#E8DCC6',
-        padding: '24px 8px',
+        background: '#e8dcc6',
+        padding: '24px 20px',
       }}
     >
       <Card />
